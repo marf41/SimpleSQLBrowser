@@ -1,0 +1,2 @@
+# SimpleSQLBrowser
+Simple SQL browser
